@@ -1,0 +1,29 @@
+============================
+============================
+============================
+============================
+
+============================
+ErrorDateTime >>07-Mar-2023 11:53:00 AM
+ErrorMessagephp_network_getaddresses: getaddrinfo for localhost3 failed: No such host is known. 
+============================
+
+============================
+ErrorDateTime >>07-Mar-2023 11:53:26 AM
+ErrorMessagephp_network_getaddresses: getaddrinfo for localhost5 failed: No such host is known. 
+============================
+
+============================
+ErrorDateTime >>07-Mar-2023 11:53:36 AM
+ErrorMessageUnknown database 'customers'
+============================
+
+============================
+ErrorDateTime >>07-Mar-2023 11:53:38 AM
+ErrorMessageUnknown database 'customers'
+============================
+
+============================
+ErrorDateTime >>07-Mar-2023 11:55:53 AM
+ErrorMessageUnknown database 'top'
+============================
